@@ -1,1 +1,1 @@
-# This is a pubilic dataset for time series anomaly detection and causality judgment 
+These data come from a real system. 20 representative parameters in the system were selected and recorded for a total of 50 days. The abnormalities were marked, where 0 represents normal and 1 represents abnormal.
